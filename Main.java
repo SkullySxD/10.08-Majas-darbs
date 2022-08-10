@@ -1,5 +1,5 @@
+import java.lang.Math;
 import java.util.Scanner;
-
 import static java.lang.Double.sum;
 
 public class Main {
